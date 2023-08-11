@@ -4,6 +4,10 @@ The Dictionary & Brute-Force Attack Tool is a Python script that allows you to p
 Getting Started:
 To download and use the tool, just copy these commands in your Linux Terminal:
 ------------------------------------------------------------------------------
+# Update and upgrade
+sudo apt udpate
+sudo apt upgrade
+
 # Clone the repository
 git clone https://github.com/bestkaliuser69/dictioanry-brute-attack
 
