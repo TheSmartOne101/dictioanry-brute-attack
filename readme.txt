@@ -3,8 +3,7 @@ The Dictionary & Brute-Force Attack Tool is a Python script that allows you to p
 
 Getting Started:
 To download and use the tool, just copy these commands in your Linux Terminal:
-
-Copy code:
+------------------------------------------------------------------------------
 # Clone the repository
 git clone https://github.com/bestkaliuser69/dictioanry-brute-attack
 
@@ -16,7 +15,7 @@ chmod +x attack.py
 
 # View options and help
 ./attack.py -h
-
+------------------------------------------------------------------------------
 
 Example Usage
 To perform a dictionary attack on a target URL https://example.com/login with the username john.doe, run:
