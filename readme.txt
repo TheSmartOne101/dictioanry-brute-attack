@@ -13,11 +13,10 @@ cd dictioanry-brute-attack
 # Make the script executable
 chmod +x attack.py
 
-# View options and help
+# Get help to use the tool
 ./attack.py -h
 ------------------------------------------------------------------------------
 
-Example Usage
 To perform a dictionary attack on a target URL https://example.com/login with the username john.doe, run:
 
 ./attack.py -url https://example.com/login -u john.doe -a
