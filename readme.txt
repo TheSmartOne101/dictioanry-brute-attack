@@ -10,6 +10,7 @@ sudo apt upgrade
 
 # Clone the repository
 git clone https://github.com/bestkaliuser69/dictioanry-brute-attack.git
+
 # Navigate to the tool's directory
 cd dictioanry-brute-attack
 
